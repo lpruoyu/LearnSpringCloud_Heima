@@ -6,8 +6,15 @@ spring:
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver
-  application:
-    name: orderservice
+#  application:
+#    name: orderservice
+#  cloud:
+#    nacos:
+#      server-addr: localhost:80 # Nacos地址
+#      discovery:
+#        cluster-name: HZ
+#        ephemeral: false # 是否是临时实例
+#        namespace: 9e04dc14-9c2e-47a3-bd43-3f05f77c2082 # 命名空间，填ID
 mybatis:
   type-aliases-package: cn.itcast.user.pojo
   configuration:
@@ -17,13 +24,13 @@ logging:
     cn.itcast: debug
   pattern:
     dateformat: MM-dd HH:mm:ss:SSS
-eureka:
-  client:
-    service-url: # eureka服务地址
-      defaultZone: http://127.0.0.1:10086/eureka
+#eureka:
+#  client:
+#    service-url: # eureka服务地址
+#      defaultZone: http://127.0.0.1:10086/eureka
 #userservice: # 只针对某个微服务
 #  ribbon:
-#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule # 负载均衡规则
+#    NFLoadBalancerRuleClassName: com.alibaba.cloud.nacos.ribbon.NacosRule # 负载均衡规则
 #ribbon:
 #  eager-load:
 #    enabled: true # 开启饥饿加载
