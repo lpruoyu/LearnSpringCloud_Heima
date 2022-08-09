@@ -34,5 +34,5 @@ logging:
 #ribbon:
 #  eager-load:
 #    enabled: true # 开启饥饿加载
-#    clients:
+#    cn.itcast.order.clients:
 #        - userservice # 指定对userservice这个服务饥饿加载

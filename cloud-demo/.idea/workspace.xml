@@ -5,63 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1cb678c0-523c-4dd5-bbb1-67eacb9fd5de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/naming/data/public/com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/naming/data/public/com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/000020.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/000022.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/000024.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/000026.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659951574498350" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659954119968202" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956438540299" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956702815849" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957325066973" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957624586119" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/MANIFEST-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/OPTIONS-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos1/data/protocol/raft/naming_persistent_service/log/OPTIONS-000029" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/naming/data/public/com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/naming/data/public/com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/000020.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/000022.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/000024.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/000026.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659951561867199" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659954157021782" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956455566860" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956719611632" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957346042023" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957642376087" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/MANIFEST-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/OPTIONS-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos2/data/protocol/raft/naming_persistent_service/log/OPTIONS-000029" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/naming/data/public/com.alibaba.nacos.naming.domains.meta.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/naming/data/public/com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@orderservice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/000020.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/000022.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/000024.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/000026.sst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659951524941515" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659954172577008" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956474330064" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659956671055014" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957357135461" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/LOG.old.1659957650532297" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/MANIFEST-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/OPTIONS-000025" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nacos_cluster/nacos3/data/protocol/raft/naming_persistent_service/log/OPTIONS-000029" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/properties/PatternProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/clients/UserClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos_cluster/nginx-1.18.0/docs/CHANGES" beforeDir="false" afterPath="$PROJECT_DIR$/nacos_cluster/nginx-1.18.0/docs/CHANGES" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/OrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/OrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/java/cn/itcast/order/service/OrderService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/src/main/resources/bootstrap.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/order-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/java/cn/itcast/user/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/target/classes/bootstrap.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,15 +75,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.OrderApplication">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -184,6 +136,8 @@
       <workItem from="1659860074508" duration="7542000" />
       <workItem from="1659920585619" duration="9761000" />
       <workItem from="1659951440540" duration="7314000" />
+      <workItem from="1659960180225" duration="4932000" />
+      <workItem from="1660024204765" duration="2884000" />
     </task>
     <servers />
   </component>
