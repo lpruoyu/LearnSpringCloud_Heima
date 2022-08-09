@@ -1,11 +1,11 @@
 package cn.itcast.order.service;
 
-import cn.itcast.order.clients.UserClient;
 import cn.itcast.order.mapper.OrderMapper;
 import cn.itcast.order.pojo.Order;
-import cn.itcast.order.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import programmer.lp.feign.clients.UserClient;
+import programmer.lp.feign.pojo.User;
 
 @Service
 public class OrderService {
