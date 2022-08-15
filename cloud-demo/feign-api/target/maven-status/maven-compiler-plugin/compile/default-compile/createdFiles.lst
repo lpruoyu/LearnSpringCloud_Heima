@@ -1,0 +1,3 @@
+programmer\lp\feign\clients\UserClient.class
+programmer\lp\feign\config\DefaultFeignConfiguration.class
+programmer\lp\feign\pojo\User.class
